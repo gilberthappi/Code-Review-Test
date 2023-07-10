@@ -260,6 +260,6 @@ YEs
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LISENCE)  licensed.
+This project is [MIT](./LISEENCE)  licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
